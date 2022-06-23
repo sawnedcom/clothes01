@@ -8,6 +8,10 @@
 
 /* NAVBAR */
 
+html {
+  scroll-behavior: smooth;
+  }
+
 ul {
   display: flex;
   list-style: none;
