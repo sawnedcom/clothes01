@@ -129,6 +129,7 @@ li.active::after {
 
 .hero {
   background-image: url(image/landing-page.jpg);
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
   position: relative;
